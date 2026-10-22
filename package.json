@@ -1,0 +1,7 @@
+{
+  "name": "infystrat-api-design-check",
+  "version": "1.0.0",
+  "description": "Heuristic API design QA: PII in URLs, versioning, verb-in-path, pagination, idempotency hints and naming drift",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
